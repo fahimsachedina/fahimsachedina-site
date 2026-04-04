@@ -15,9 +15,9 @@ A clean, single-page personal site covering who Fahim is, what he's building, an
 ## Stack
 
 - **HTML/CSS** — no frameworks, no build step
-- **Vercel** — free hosting, auto-deploys on every push to `main`
+- **Static hosting** — auto-deploys on every push to `main`
 - **GitHub** — source of truth for all code changes
-- **Domain** — fahimsachedina.com registered via WordPress.com, DNS pointed to Vercel
+- **Domain** — fahimsachedina.com
 
 ## Sections
 
